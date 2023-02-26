@@ -1,2 +1,2 @@
 # water-hooligans
-code space for a freelance, student-led project
+Official repo for a freelance, student-led project. Although based in the University of Waterloo, this project is not affiliated with the University of Waterloo. 
